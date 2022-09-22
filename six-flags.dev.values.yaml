@@ -7,4 +7,3 @@ dnsName: hershey-park-dev.apps.redhat-demo.sandbox532.opentlc.com
 applications:
   - name: hershey-park-dev
     image: quay.io/rymiller/theme-park-api:hershey-park
-    uri: '/hershey-park'

@@ -7,4 +7,3 @@ dnsName: kings-dominion-test.apps.redhat-demo.sandbox532.opentlc.com
 applications:
   - name: kings-dominion-test
     image: quay.io/rymiller/theme-park-api:kings-dominion
-    uri: '/kings-dominion'

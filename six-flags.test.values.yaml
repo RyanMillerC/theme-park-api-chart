@@ -7,4 +7,3 @@ dnsName: six-flags-test.apps.redhat-demo.sandbox532.opentlc.com
 applications:
   - name: six-flags-test
     image: quay.io/rymiller/theme-park-api:six-flags
-    uri: '/six-flags'
