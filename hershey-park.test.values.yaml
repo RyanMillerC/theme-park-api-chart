@@ -1,0 +1,10 @@
+# Replicas of each application
+replicaCount: 1
+
+# Domain the application will be served from
+dnsName: hershey-park.apps.redhat-demo.sandbox532.opentlc.com
+
+applications:
+  - name: hershey-park-test
+    image: quay.io/rymiller/theme-park-api:hershey-park
+    uri: '/hershey-park'
