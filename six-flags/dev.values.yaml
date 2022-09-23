@@ -2,8 +2,8 @@
 replicaCount: 1
 
 # Domain the application will be served from
-dnsName: hershey-park-dev.apps.redhat-demo.sandbox532.opentlc.com
+dnsName: six-flags-dev.apps.dev.taco.moe
 
 applications:
-  - name: hershey-park-dev
-    image: quay.io/rymiller/theme-park-api:hershey-park
+  - name: six-flags-dev
+    image: quay.io/rymiller/theme-park-api:six-flags

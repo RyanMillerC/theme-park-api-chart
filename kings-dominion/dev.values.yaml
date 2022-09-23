@@ -2,7 +2,7 @@
 replicaCount: 1
 
 # Domain the application will be served from
-dnsName: kings-dominion.apps.redhat-demo.sandbox532.opentlc.com
+dnsName: kings-dominion-dev.apps.dev.taco.moe
 
 applications:
   - name: kings-dominion-dev

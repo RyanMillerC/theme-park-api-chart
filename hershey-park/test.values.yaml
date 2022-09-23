@@ -2,7 +2,7 @@
 replicaCount: 1
 
 # Domain the application will be served from
-dnsName: hershey-park.apps.redhat-demo.sandbox532.opentlc.com
+dnsName: hershey-park-test.apps.dev.taco.moe
 
 applications:
   - name: hershey-park-test

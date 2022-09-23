@@ -2,7 +2,7 @@
 replicaCount: 1
 
 # Domain the application will be served from
-dnsName: six-flags-test.apps.redhat-demo.sandbox532.opentlc.com
+dnsName: six-flags-test.apps.dev.taco.moe
 
 applications:
   - name: six-flags-test
